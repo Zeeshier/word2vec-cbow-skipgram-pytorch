@@ -1,0 +1,32 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and runtime files
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model/checkpoint artifacts that can grow quickly
+results/checkpoints/last_*.pt
+results/checkpoints/best_paper_*.pt
+
+# Keep paper-ready aggregate outputs tracked unless you want them ignored
+# results/paper/

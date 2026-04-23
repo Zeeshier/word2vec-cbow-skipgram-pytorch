@@ -1,0 +1,2 @@
+data_path,num_sentences,num_tokens,num_unique_tokens,avg_sentence_length,vocab_size_min_count_1,vocab_size_min_count_3
+data/corpus.txt,29,274,41,9.448275862068966,43,24

@@ -1,0 +1,7 @@
+model,a,b,c,expected,predicted_top1,expected_in_top5
+skipgram,man,king,woman,queen,crown,0
+skipgram,boy,prince,girl,princess,family,0
+skipgram,queen,woman,king,man,the,0
+cbow,man,king,woman,queen,crown,0
+cbow,boy,prince,girl,princess,family,0
+cbow,queen,woman,king,man,the,0

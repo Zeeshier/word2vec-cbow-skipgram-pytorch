@@ -1,0 +1,15 @@
+{
+  "data_path": "data/corpus.txt",
+  "model_type": "cbow",
+  "embedding_dim": 100,
+  "window_size": 2,
+  "min_count": 1,
+  "max_vocab_size": null,
+  "batch_size": 256,
+  "epochs": 5,
+  "lr": 0.05,
+  "val_split": 0.1,
+  "seed": 42,
+  "save_prefix": null,
+  "vocab_size": 43
+}
